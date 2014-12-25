@@ -3,7 +3,9 @@ roadmap -> http://codepen.io/rafszul/syntax-error/fuk-da-popo
 
 background
 
-[![(https://s3-us-west-2.amazonaws.com/s.cdpn.io/73058/UCgufle_(1)-004-01-01.svg)](http://soft-asylum.tumblr.com/post/106153700128/with-uuwaa-by-awesome-kozilek-from-side-a-of-the)
+![](https://s3-us-west-2.amazonaws.com/s.cdpn.io/73058/UCgufle_(1)-004-01-01.svg)
+
+(http://soft-asylum.tumblr.com/post/106153700128/with-uuwaa-by-awesome-kozilek-from-side-a-of-the)
 
 <iframe width="100%" height="360" src="//www.youtube.com/embed/d7IPYH4OZe8?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
