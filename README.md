@@ -21,7 +21,8 @@ jpg:
 (contains elements: rect (_x3C_back_x3E_), image ([https://i1.sndcdn.com/artworks-000039155543-36oyej-t500x500.jpg](https://i1.sndcdn.com/artworks-000039155543-36oyej-t500x500.jpg)), path (_x3C_student_x3E_, _x3C_tank02_x3E__1_, _x3C_tank01_x3E_))
 
 * * *
-
+<p data-height="109" data-theme-id="10956" data-slug-hash="EagbEo" data-default-tab="result" data-user="rafszul" class='codepen'>See the Pen <a href='http://codepen.io/rafszul/pen/MYjEYL'>explore the pen for this project</a> by @rafszul (<a href='http://codepen.io/rafszul'>@rafszul</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 [fork this pen](http://codepen.io/rafszul/pen/MYjEYL) or [github repo](https://github.com/noviceapp-com/FUK-DA-POPO-SIDE-A-Kozilek-Uuwaa) and add any features you can think off
 
 * * *
