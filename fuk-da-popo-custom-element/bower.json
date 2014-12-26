@@ -1,0 +1,7 @@
+{
+  "name": "fuk-da-popo-custom-element",
+  "private": true,
+  "dependencies": {
+    "polymer": "Polymer/polymer#latest"
+  }
+}
