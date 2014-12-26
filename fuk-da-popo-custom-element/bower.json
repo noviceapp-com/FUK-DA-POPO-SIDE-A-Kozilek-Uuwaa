@@ -2,6 +2,7 @@
   "name": "fuk-da-popo-custom-element",
   "private": true,
   "dependencies": {
-    "polymer": "Polymer/polymer#latest"
+    "polymer": "Polymer/polymer#latest";
+    "core-iconset-svg": components/core-iconset-svg/core-iconset-svg.html"
   }
 }

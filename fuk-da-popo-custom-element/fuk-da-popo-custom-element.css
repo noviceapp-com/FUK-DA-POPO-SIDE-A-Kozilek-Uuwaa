@@ -1,4 +1,35 @@
-@element fuk-da-popo-custom-element
-@blurb Element providing solution to [...].
-@status [...]
-@homepage https://.../fuk-da-popo-custom-element
+body {
+  font-family: RobotoDraft, sans-serif;
+  color: #333;
+  margin: 0;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+  -webkit-touch-callout: none;
+}
+.st0{fill:#FF0000;stroke:#FF030D;stroke-width:0.0938;
+
+}
+.st1{fill:#D60E15;stroke:#D60E15;stroke-width:0.0938;
+
+}
+.st2{fill:#A91318;stroke:#A91318;stroke-width:0.0938;
+
+}
+.st3{fill:#7B181B;stroke:#7B181B;stroke-width:0.0938;
+
+}
+.st4{fill:#521C1E;stroke:#521C1E;stroke-width:0.0938;
+
+}
+.st5{fill:#FF030D;stroke:#FF030D;stroke-width:0.0938;
+
+}
+.st6{fill:#2F2020;stroke:#2F2020;stroke-width:0.0938;
+
+}
+.st7{display:none;
+
+}
