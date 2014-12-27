@@ -33,3 +33,24 @@ body {
 .st7{display:none;
 
 }
+a#codepen {
+  display: block;
+  text-decoration: none;
+  color: #fff;
+  margin: 0 auto;
+  border-radius: 5px;
+  padding: 2rem;
+  padding-left: 7rem;
+  font-size: 1.3rem;
+  width: 500px;
+  border: 1px solid transparent;
+  background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/4273/codepen-fill-white.svg) #000 no-repeat;
+  background-size: 80% 80%;
+  background-position: -150% 50%;
+}
+a#codepen:hover, a#codepen:hover {
+  background-color: #fff;
+  color: #000;
+  background-blend-mode: difference;
+  border: 1px solid #666;
+}
